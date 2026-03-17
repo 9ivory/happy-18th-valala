@@ -4,7 +4,7 @@ const messages = [
   "you are sososo incredibly gorgeous!!! you're just so absolutely pretty,, like you're someone i would draw because that's how pretty you are, and i dont usually draw irl people. ur skin is so clear, hair is perfect, lashes r tea, EVERYTHING!!! you cld seriously be a supermodel Ok?? ",
   "you are so incredibly intelligent as well. imo intelligence is based on someone's ability to problem-solve, etc. i feel like while working w/ u in staff/just talking to you, you actually take the initiative to solve problems nd this makes you SO incredibly intelligent to me. not only that, but i feel like u always know the right thing to say!!",
   "you're also so so so so so funny. your role pings seriously make my mood 100x better, just talking to you in general always makes me happier because i feel like, i'm actually having a GOOD conversation which for me is so rare. you never fail to make me laugh w/ your jokes, even when im feeling horrible. i appreciate you so so so much!!!",
-  "so in conclusion, happy 18th, val!!! you deserve the world and so much more, pretty girl ♡ i hope everything from here on out is up!!! i'll always be rooting for you, and you can always come to me if you ever need anything!!!!"
+  "so in conclusion, happy 18th, val!!! there's so much else i want to put in here but i don't have the ability to put it into words, just know that you are perfect & you deserve the world and so much more, pretty girl ♡ i hope everything from here on out is up!!! i'll always be rooting for you, and you can always come to me if you ever need anything!!!!"
 ];
 
 function showText(index) {
