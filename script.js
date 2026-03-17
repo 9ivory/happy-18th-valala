@@ -1,10 +1,10 @@
 const messages = [
-  "You are one of the kindest people I know.",
-  "Your generosity always stands out.",
-  "You’re always there when it matters most.",
-  "You’re genuinely so intelligent.",
-  "You make everything more fun.",
-  "Happy 18th! 🎉 You deserve everything good."
+  "hai val! you're one of the kindest people i know <3 you never fail to be there for others, and you always support me when i'm crashing out. i appreciate you so so so much!!!",
+  "you're so supportive as well!! whether that be spending your time with your friends or hiring your friends (like nadia!), you have always been so supportive. you're also incredibly patient with us (esp given some staff can... well.). i feel like i could go to you for anything, and it means a lot <3",
+  "you are sososo incredibly gorgeous!!! you're just so absolutely pretty,, like you're someone i would draw because that's how pretty you are, and i dont usually draw irl people. ur skin is so clear, hair is perfect, lashes r tea, EVERYTHING!!! you cld seriously be a supermodel Ok?? ",
+  "you are so incredibly intelligent as well. imo intelligence isnt based on grades (bc school is shitty), rather it's based on someone's ability to problem-solve, etc. i feel like while working w/ u in staff/just talking to you, you actually take the initiative to solve problems nd this makes you SO incredibly intelligent.",
+  "you're also so so so so so funny. your role pings make my mood 100x better, just talking to you in general always makes me laugh because i feel like when talking to you, i'm actually having a conversation. you never fail to make me laugh w/ your jokes, even when im feeling horrible.",
+  "happy 18th, val!!! you deserve the world and so much more, pretty girl ♡ i hope everything from here on out is up!!! i'll always be rooting for you!!!!"
 ];
 
 function showText(index) {
