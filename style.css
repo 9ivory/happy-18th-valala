@@ -44,6 +44,8 @@ body {
 .box:nth-child(6) { background: #e6b8d6; }
 
 .letter {
+  width: 650px;
+  height: 320px;
   grid-column: span 3;
   background: #f1f1f1;
   border-radius: 20px;
