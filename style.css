@@ -2,7 +2,7 @@ body {
   font-family: "Tangerine", cursive;
   font-weight: 400;
   font-style: normal;
-  background: #f3eef4;
+  background: #f9ddf6;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,7 +47,7 @@ body {
   width: 650px;
   height: 320px;
   grid-column: span 3;
-  background: #f1f1f1;
+  background: #ffffff;
   border-radius: 20px;
   padding: 40px;
   height: 250px;
